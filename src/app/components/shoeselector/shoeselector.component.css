@@ -1,0 +1,23 @@
+#middle{
+    position: relative;
+    left: 33%;
+}
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+
+    border-radius: 15px;
+}
+
+
+.img-rounded{
+    position:relative;
+    top: -12.5%;
+    left:-58%; 
+    
+    width: 30px;
+    height: 30px;
+    
+    border-radius: 15px;
+}
